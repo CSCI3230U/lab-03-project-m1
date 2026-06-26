@@ -4,7 +4,7 @@
 
 > This is a **project lab** — there is no starter repo and nothing to clone. The work happens in your **group's project repository**, over the weeks leading up to today. This session is the **deadline, the demo, and a checkpoint with your TA** — *not* the time to start. See `project/PROJECT.md` for the whole plan, and begin early.
 
-This is the first graded milestone of your group project (M1 was setting up your team). By now you should have a topic, an API in mind, and a team that's been meeting. Today you lock the plan and show a **styled, working prototype** of your interface — built **by hand** in HTML & CSS, no framework code yet.
+This is the first graded milestone of your group project (M1 was setting up your team). By now you should have a topic, an API in mind, and a team that's been meeting. Today you lock the plan and show a styled prototype of your interface — built by hand in HTML & CSS, no framework code yet.
 
 ## What's due
 
